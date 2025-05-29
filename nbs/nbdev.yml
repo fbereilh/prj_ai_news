@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "prj_ai_news"
+  site-url: "https://fbereilh.github.io/prj_ai_news"
+  description: ""
+  repo-branch: master
+  repo-url: "https://github.com/fbereilh/prj_ai_news"
